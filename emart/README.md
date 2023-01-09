@@ -1,9 +1,5 @@
 # Ecommerce
 This is ecommerce website built with React 
-- Home page where calling feature is availale
-- Tracking Data Globally
-- Tracking Data Country wise 
-- Country List Dropdown
 
 ## Commanad that need to run the project
 - npm install
