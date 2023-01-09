@@ -6,7 +6,7 @@ This is ecommerce website built with React
 - npm start
 
  ## devDependencies
-- Clone this repo to your local machine using https://github.com/nehakatre04/React-Ecommerce
+- Clone this repo to your local machine using https://github.com/nehakatre04/React-Ecommerce.git
 - 
 ## Screenshot 
 <table>
